@@ -18,7 +18,7 @@
 body {
   min-height: 100dvh;
   overflow: hidden;
-  background: #0a0a0a url("243 (2).jpg") center top / cover no-repeat;
+  background: #0a0a0a url("243.jpg") center top / cover no-repeat;
   font-family: var(--font);
   color: var(--text);
   -webkit-font-smoothing: antialiased;
